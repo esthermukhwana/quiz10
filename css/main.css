@@ -1,0 +1,31 @@
+body{
+	background-color: #ccc;
+	text-align: center;
+
+
+}
+header{
+
+	background-color: rgba();
+	font-size: 40px;
+	width: 1000px;
+	text-align: center;
+
+	
+}
+
+.cont1{
+	width: 1000px;
+	font-size: 30px;
+	background-color: black;
+	color: white;
+	margin: 0 auto;
+
+}
+
+.cont2{
+	width: 1000px;
+	background-color: #fff;
+	font-size: 30px;
+	margin: 0 auto;
+}
